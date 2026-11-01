@@ -1,0 +1,11 @@
+build/
+build*/
+tools/preview/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+cmake-build-*/
+# du lieu nguoi choi (co mat khau van ban thuan) khong dua len kho ma nguon
+data/*.csv
+data/*.tmp
